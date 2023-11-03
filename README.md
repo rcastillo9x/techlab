@@ -51,8 +51,6 @@ Feel free to [contact me](mailto:castillo.randolfo@gmail.com) or check out my [G
 
 ---
 
-Certainly! Here's a list of project ideas that can help demonstrate your skills in the areas you've specified:
-
 ### Software Engineering Projects ROADMAP
 
 1. **E-Commerce Web Application**:
