@@ -1,9 +1,7 @@
 # techlab
-Based on the skills you've listed, here's a template for a `README.md` that you can use as a starting point for your portfolio. Note that I've made some minor corrections to your original text, indicated in brackets.
-
 ---
 
-# Randolfo's Portfolio [WORK IN PROGRESS]
+## Randolfo's Portfolio [WORK IN PROGRESS]
 
 Welcome to my professional portfolio! I am a seasoned software engineer and DevOps enthusiast with expertise in various programming languages, frameworks, and cloud computing platforms. Below, you'll find an overview of my skills and some use cases that showcase my capabilities.
 
