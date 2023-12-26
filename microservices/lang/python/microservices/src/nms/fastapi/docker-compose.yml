@@ -1,0 +1,9 @@
+# docker-compose.yml
+version: '3.8'
+services:
+  web:
+    build: .
+    ports:
+      - "${PORT:-8000}:80"
+    environment:
+      - PORT=80
